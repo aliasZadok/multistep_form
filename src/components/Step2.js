@@ -9,7 +9,7 @@ const Step2 = ({ setForm, formData, navigation }) => {
     <div className="container">
       <form>
         <fieldset>
-        <legend>Step 1</legend>
+        <legend>Step 2</legend>
         <label htmlFor="email">Email Id:</label>
         <input
           type="text"

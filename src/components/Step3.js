@@ -21,7 +21,7 @@ const Step3 = ({ setForm, formData, navigation }) => {
     <div className="container">
       <form>
         <fieldset>
-        <legend>Step 1</legend>
+        <legend>Step 3</legend>
         <label htmlFor="password">Password:</label>
         <input
           type="password"
